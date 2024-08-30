@@ -79,6 +79,7 @@ class FileRenamer:
             dest = f"{dest_path.rstrip('/')}/{new_name}"
             self.copy_binary_file(file_path, dest)
             print(f"File saved as: {new_name}")
+            
         else:
             print("Failed to load the file content.")
 
