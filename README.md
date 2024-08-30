@@ -7,7 +7,7 @@ filesense is a Python package that generates new, descriptive names for text, PD
 - Supports text, PDF, DOCX, PowerPoint, and image files.
 - Automatically generates new names based on file content.
 - Generative AI technique for title generation.
-- renames files, preserving the original content.
+- renames files , preserving the original content.
 
 ## Installation
 
