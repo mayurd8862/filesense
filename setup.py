@@ -11,7 +11,7 @@ setup(
     ],
     author="Mayur Dabade",
     author_email="mayurdabade1103@gmail.com",
-    description="A package to rename files based on their content using Google Generative AI.",
+    description="A package to rename files based on their content using Generative AI.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/mayurd8862/FileSense.AI-Semantic-File-Renamer",
