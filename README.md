@@ -11,13 +11,13 @@ filesense is a Python package that generates new, descriptive names for text, PD
 
 ## Installation
 
-To install FileRenamer, use pip:
+To install filesense, use pip:
 
 ```bash
 pip install filesense
 ```
 # Usage
-Here's how to use FileRenamer in your project:
+Here's how to use filesense in your project:
 ```
 from filesense import FileRenamer
 
