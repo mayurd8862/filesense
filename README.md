@@ -24,14 +24,12 @@ from filesense import FileRenamer
 # Initialize the FileRenamer
 renamer = FileRenamer()
 
-# Specify the file path and destination path
-file_path = 'path/to/your/file.pdf'
-dest_path = './renamed_files/'
-
 # Rename the file
 renamer.rename_file(file_path, dest_path)
 ```
-
+### Required Parameters: 
+- file_path = "path/to/your/file.pdf"
+- dest_path = "./renamed_files/"      (current directory will be the defualt value)
 
 # Contact
 For any questions or inquiries, please contact mayurdabade1103@gmail.com.
