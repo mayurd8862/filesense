@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="filesense",
-    version="0.01",
+    version="v0.1",
     packages=find_packages(),
     install_requires=[
         "langchain_community",
