@@ -2,13 +2,16 @@ from setuptools import setup, find_packages
 
 setup(
     name="filesense",
-    version="0.1",
+    version="0.1.0",
     packages=find_packages(),
     install_requires=[
         "langchain_community",
         "pypdf",
         "google-generativeai",
         "pillow",
+        "docx2txt",
+        "unstructured",
+        "python-pptx"
     ],
     author="Mayur Dabade",
     author_email="mayurdabade1103@gmail.com",
