@@ -12,6 +12,7 @@ setup(
         "docx2txt",
         "unstructured",
         "python-pptx"
+        
     ],
     author="Mayur Dabade",
     author_email="mayurdabade1103@gmail.com",
