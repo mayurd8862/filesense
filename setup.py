@@ -2,11 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name="filesense",
-    version="1.0.0",
+    version="0.1",
     packages=find_packages(),
     install_requires=[
         "langchain_community",
-        "google",
+        "pypdf",
+        "google-generativeai",
         "pillow",
     ],
     author="Mayur Dabade",
